@@ -1,0 +1,11 @@
+{
+  "name": "nodemasterclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcusegues/nodemasterclass.git",
+  "author": "megues <marcus@felfel.ch>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}

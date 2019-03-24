@@ -1,0 +1,3 @@
+- create HTTP server and have it listen on a port
+- write code in the request listener to parse the request (path, method, query string, headers, body)
+- route the request to the appropriate handler (based on path)
